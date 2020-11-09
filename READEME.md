@@ -1,3 +1,0 @@
-# GCN
-
-GCN project
